@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiffUtil Example</string>
+    <string name="bookmarked_websites">Bookmarked Websites</string>
+    <string name="all_websites">All Websites</string>
+</resources>
